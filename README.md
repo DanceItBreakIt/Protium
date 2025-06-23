@@ -5,6 +5,7 @@ A web browser &amp; renderer written in pure Python.
 Current capabilities:
 - [x] Lightweight, cross-platform
 - [x] display HTML text
+- [x] Integrated Search
 - [ ] Basic CSS
 - [ ] Image support
 - [ ] Multiple tabs
